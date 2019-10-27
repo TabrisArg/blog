@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Testing a new post22222"
+title:  "Testing a new post"
 author: cesar
 categories: [ category1, category2 ]
 tags: [tag1, tag2]
