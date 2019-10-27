@@ -1,7 +1,7 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+name: "Shanghai Dev Blog"
+title: "Shanghai Dev Blog"
+description: "The life of a freelancer in China"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/blog/'
@@ -13,23 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
+  cesar:
+    name: Cesar
+    display_name: Cesar
+    gravatar: 59335404d36d51660770ead231df73f9
+    email: tabris@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    twitter: //twitter.com/TabrisX
+    description: "Cesar is a copywriter, project manage, front-end developer, actor and comedian currently living in Shanghai, China."
 
 # Plugins
 plugins:

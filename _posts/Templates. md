@@ -1,0 +1,20 @@
+For reviews:
+---
+layout: post
+title:  "Testing a new post"
+author: cesar
+categories: [ category1, category2 ]
+tags: [tag1, tag2]
+image: assets/images/test.jpg
+description: "This is how I test a new post."
+featured: false
+rating: 5
+hidden: false
+---
+
+Sopilers:
+<span class="spoiler">My hidden paragraph here.</span>
+
+Quotes:
+
+> at the befining
